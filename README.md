@@ -151,7 +151,7 @@ print(classification_report(y_test,predictions))
 ##### Classification matrix
 ![image](https://github.com/Janani-2003/Ex-4-NN/assets/94288340/75ddbc82-454e-47cc-9ceb-ecc3958e91a5)
 ##### Classification report
-![image](https://github.com/Janani-2003/Ex-4-NN/assets/94288340/a5d0647a-8e15-4dcb-adf1-c007fc109fa9)
+![image](https://github.com/Janani-2003/Ex-4-NN/assets/94288340/898ba33b-a972-47b1-90fc-a41464bd34ac)
 
 <H3>Result:</H3>
 Thus, MLP is implemented for multi-classification using python.
