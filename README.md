@@ -146,11 +146,11 @@ print(predictions)
 print(confusion_matrix(y_test,predictions))
 print(classification_report(y_test,predictions))
 ```
-<H3>Output:</H3>
+### Output:
 ![image](https://github.com/Janani-2003/Ex-4-NN/assets/94288340/6f5b64e1-9550-4d91-8b0f-6dc419f41f9c)
-<H5>Classification matrix</H5>
+##### Classification matrix
 ![image](https://github.com/Janani-2003/Ex-4-NN/assets/94288340/75ddbc82-454e-47cc-9ceb-ecc3958e91a5)
-<H5>Classification report</H5>
+##### Classification report
 ![image](https://github.com/Janani-2003/Ex-4-NN/assets/94288340/a5d0647a-8e15-4dcb-adf1-c007fc109fa9)
 
 <H3>Result:</H3>
