@@ -148,9 +148,9 @@ print(classification_report(y_test,predictions))
 ```
 ### Output:
 ![image](https://github.com/Janani-2003/Ex-4-NN/assets/94288340/6f5b64e1-9550-4d91-8b0f-6dc419f41f9c)
-##### Classification matrix
+#### Classification matrix
 ![image](https://github.com/Janani-2003/Ex-4-NN/assets/94288340/75ddbc82-454e-47cc-9ceb-ecc3958e91a5)
-##### Classification report
+#### Classification report
 ![image](https://github.com/Janani-2003/Ex-4-NN/assets/94288340/898ba33b-a972-47b1-90fc-a41464bd34ac)
 
 <H3>Result:</H3>
